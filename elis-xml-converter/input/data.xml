@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="transform.xslt" ?>
+<OBJECTS program_name="imdas pro" program_version="7.0.55" export_date="2024-08-13T11:40:48+02:00" export_user="IMDASADMIN" countHits="1" countObjects="1">
+	<OBJECT>
+		<ID>148635</ID>
+		<field>
+			<fieldname>Inventarnummer</fieldname>
+			<fieldvalue datatype="text">AGK2135</fieldvalue>
+		</field>
+		<field fieldtype="userfields">
+			<fieldname>Titel (Freitext)</fieldname>
+			<fieldvalue datatype="text">Ferdinand Edler von Leber</fieldvalue>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>36</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Figur/Porträt</thesaurusHierarchy>
+			<fieldvalue datatype="text">Porträt</fieldvalue>
+			<Guid>ffac4455-0c55-4b2e-84d1-c3dbc45b6278</Guid>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>1698</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Figur/Porträt/Historische Figur - Porträt</thesaurusHierarchy>
+			<fieldvalue datatype="text">Historische Figur - Porträt</fieldvalue>
+			<Guid>a4842f97-a00e-4c42-872b-cc134d965c1a</Guid>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>6777</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Leben und Gesellschaft/Beruf</thesaurusHierarchy>
+			<fieldvalue datatype="text">Beruf</fieldvalue>
+			<Guid>67674e38-445f-4dd1-a9ab-6d4a6f3a72f6</Guid>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>1624</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Figur/Porträt/Männliches Porträt</thesaurusHierarchy>
+			<fieldvalue datatype="text">Männliches Porträt</fieldvalue>
+			<Guid>65728445-8017-4622-ba4b-ea95ab41f9b1</Guid>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>8150</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Leben und Gesellschaft/Beruf/Arzt</thesaurusHierarchy>
+			<fieldvalue datatype="text">Arzt</fieldvalue>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>6792</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Figur/Dreiviertelprofil</thesaurusHierarchy>
+			<fieldvalue datatype="text">Dreiviertelprofil</fieldvalue>
+			<Guid>60d3b7d7-08ba-4819-9cdd-1788d2ec01ca</Guid>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>8153</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Gegenstände/Papier/Buch</thesaurusHierarchy>
+			<fieldvalue datatype="text">Buch</fieldvalue>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>8551</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Gegenstände/Möbelstück/Rahmen</thesaurusHierarchy>
+			<fieldvalue datatype="text">Rahmen</fieldvalue>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>6714</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Natur/Tiere/Schlange</thesaurusHierarchy>
+			<fieldvalue datatype="text">Schlange</fieldvalue>
+			<Guid>a3a073db-6ab3-43ae-8fa0-e29f07658e40</Guid>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>7825</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Kunst/Ornament/Pflanzenornament</thesaurusHierarchy>
+			<fieldvalue datatype="text">Pflanzenornament</fieldvalue>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>9121</ID>
+			<fieldname>Ikonographie</fieldname>
+			<thesaurusHierarchy>Kunst/Ornament/Pflanzenornament/Feston</thesaurusHierarchy>
+			<fieldvalue datatype="text">Feston</fieldvalue>
+		</field>
+		<field fieldtype="list">
+			<fieldname>Sammlung</fieldname>
+			<fieldvalue datatype="text">Druckgraphik</fieldvalue>
+			<ID>311004</ID>
+			<MUSEUM_ID>311</MUSEUM_ID>
+			<INSTITUTION>Universalmuseum Joanneum, Alte Galerie</INSTITUTION>
+		</field>
+		<field fieldtype="dimensions">
+			<valueTypeId>1</valueTypeId>
+			<unitId>4</unitId>
+			<fieldname>Höhe</fieldname>
+			<fieldvalue datatype="float">16.9</fieldvalue>
+			<fieldunit>cm</fieldunit>
+		</field>
+		<field fieldtype="dimensions">
+			<valueTypeId>2</valueTypeId>
+			<unitId>4</unitId>
+			<fieldname>Breite</fieldname>
+			<fieldvalue datatype="float">10</fieldvalue>
+			<fieldunit>cm</fieldunit>
+		</field>
+		<field fieldtype="userfields">
+			<fieldname>Data Provider</fieldname>
+			<fieldvalue datatype="text">Universalmuseum Joanneum</fieldvalue>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>9267</ID>
+			<fieldname>Medienkategorie</fieldname>
+			<thesaurusHierarchy>Digital/IMAGE</thesaurusHierarchy>
+			<fieldvalue datatype="text">IMAGE</fieldvalue>
+		</field>
+		<field fieldtype="thesaurus">
+			<ID>9346</ID>
+			<fieldname>Medienformat</fieldname>
+			<thesaurusHierarchy>image/jpeg</thesaurusHierarchy>
+			<fieldvalue datatype="text">jpeg</fieldvalue>
+		</field>
+		<field fieldtype="userfields">
+			<fieldname>Ressourcenadresse</fieldname>
+			<fieldvalue datatype="text">https://www.museum-joanneum.at/alte-galerie/kupferstichkabinett?AGK2135&amp;raw=1</fieldvalue>
+		</field>
+		<field fieldtype="userfields">
+			<fieldname>Kontextadresse</fieldname>
+			<fieldvalue datatype="text">https://www.museum-joanneum.at/alte-galerie/kupferstichkabinett?AGK2135</fieldvalue>
+		</field>
+		<field fieldtype="userfields">
+			<fieldname>Lizenz</fieldname>
+			<fieldvalue datatype="text">CC BY-NC-ND 4.0</fieldvalue>
+		</field>
+		<field fieldtype="userfields">
+			<fieldname>Rechte</fieldname>
+			<fieldvalue datatype="text">Universalmuseum Joanneum</fieldvalue>
+		</field>
+		<field fieldtype="userfields">
+			<fieldname>Teil der Sammlung</fieldname>
+			<fieldvalue datatype="text">Alte Galerie, Kupferstichkabinett</fieldvalue>
+		</field>
+	</OBJECT>
+</OBJECTS>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/">
+  <edm:ProvidedCHO rdf:about="">
+    <dc:identifier>AGK2135</dc:identifier>
+    <dc:title>Ferdinand Edler von Leber</dc:title>
+    <dc:description/>
+    <dc:subject>Porträt</dc:subject>
+    <dc:type>Druckgraphik</dc:type>
+    <dcterms:medium/>
+    <dcterms:extent/>
+    <dc:contributor/>
+    <dcterms:isPartOf>Alte Galerie, Kupferstichkabinett</dcterms:isPartOf>
+  </edm:ProvidedCHO>
+  <edm:WebResource rdf:about="https://www.museum-joanneum.at/alte-galerie/kupferstichkabinett?AGK2135&amp;raw=1">
+    <dc:format>jpeg</dc:format>
+    <edm:rights>CC BY-NC-ND 4.0</edm:rights>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="https://www.museum-joanneum.at/alte-galerie/kupferstichkabinett?AGK2135">
+    <dc:format>jpeg</dc:format>
+    <edm:rights>CC BY-NC-ND 4.0</edm:rights>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="">
+    <dc:format>jpeg</dc:format>
+    <edm:rights>CC BY-NC-ND 4.0</edm:rights>
+  </edm:WebResource>
+  <edm:Agent rdf:about="">
+    <dc:title>Universalmuseum Joanneum</dc:title>
+  </edm:Agent>
+  <edm:Agent rdf:about="">
+    <dc:rights>Universalmuseum Joanneum</dc:rights>
+  </edm:Agent>
+</rdf:RDF>
